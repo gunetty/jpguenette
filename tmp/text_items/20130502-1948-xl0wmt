@@ -1,8 +1,23 @@
----
-title: Home
----
-
-<!-- title block :: begin -->
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<title>Jeffrey P. Guenette</title>
+		<meta name="description" content="Jeffrey Guenette">
+		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
+		<meta name="author" content="Jeffrey P. Guenette">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="generator" content="nanoc 3.6.3"> 
+  </head>
+  <body>
+		<!-- container :: begin -->
+		<div id="container">
+ 
+			<!-- title block :: begin -->
+			<h1>Jeffrey P. Guenette</h1>
+			<!-- title block :: end -->
+ 
+      <!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
 <p class="geo">Brown University<br>
@@ -11,7 +26,7 @@ title: Home
 </p>
 <p class="geo">
 	jeffrey_guenette &#43; &#64;brown &#43; .edu<br>
-	<a href="http://gunetty.github.com">jpguenette.github.com</a>
+	<a href="http://gunetty.github.com">gunetty.github.com</a>
 </p>
 <p class="geo">
 	<a href="GuenetteJP_CV.pdf">Current CV</a> (download as PDF)
@@ -49,13 +64,13 @@ title: Home
 <h2>Scientific Publications</h2>
 <img class="thumb" src="thumbs/JSO2010CHM.jpg" alt="CHM Ablation Image">
 <p class="cv">
-	<a href="JSO2010CHM.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
+	<a href="2010JSO_RFACHM.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
 	Guenette JP, Dupuy DE<br>
 	J Surg Oncol. 2010;102(8):978-87
 </p>
 <div class="clear"></div>
 <img class="thumb" src="thumbs/JVIR2013thyroid.jpg" alt="Thyroid Ablation Image">
-<p class="cv"><a href="#">Image-guided Ablation of Postsurgical Locoregional Recurrence of Biopsy-proven Well-differentiated 
+<p class="cv"><a href="#">Image-Guided Ablation of Post-Surgical Locoregional Recurrence of Biopsy-Proven Well-Differentiated 
 	Thyroid Carcinoma</a><br> 
 	Guenette JP, Monchik JM, Dupuy DE<br>
 	J Vasc Interv Radiol. 2013 May;24(5):672-9
@@ -154,3 +169,17 @@ title: Home
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
 <!-- friends links :: end -->
 
+			<!-- footer :: begin -->
+			<div class="footer">
+				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+					width="32" height="32" alt="HTML5 Powered with CSS3 / Styling, and Semantics"></a>&nbsp;
+				<a href="http://jigsaw.w3.org/css-validator/check/referer" target="w3"><img style="border:0;width:88px;height:31px" 
+					src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a>&nbsp;
+				<img src="ruby_logo.gif" alt="Ruby Programming Language" width="28" height="32">
+			</div>
+			<!-- footer :: end --> 
+		
+		</div>
+		<!-- container :: end -->
+  </body>
+</html>
