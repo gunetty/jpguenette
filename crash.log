@@ -1,42 +1,56 @@
-Crashlog created at 2013-05-03 09:35:31 -0400
+Crashlog created at 2013-05-03 11:22:05 -0400
 
 ===== MESSAGE:
 
-SyntaxError: ./Rules:46: syntax error, unexpected end-of-input, expecting keyword_end
+NoMethodError: undefined method `render' for #<Nanoc::Context:0x007f80d321f740>
 
 ===== COMPILATION STACK:
 
-  (empty)
+  - [item]   / (rep default)
 
 ===== STACK TRACE:
 
-  0. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/rules_collection.rb:78:in `instance_eval'
-  1. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/rules_collection.rb:78:in `load'
-  2. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/compiler.rb:119:in `load'
-  3. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/source_data/site.rb:250:in `load'
-  4. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/command_runner.rb:63:in `load_site'
-  5. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/commands/compile.rb:358:in `run'
-  6. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/command_runner.rb:14:in `block in call'
-  7. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:70:in `handle_while'
-  8. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
-  9. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/command_runner.rb:13:in `call'
-  10. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command_dsl.rb:185:in `block in runner'
-  11. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
-  12. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
-  13. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
-  14. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/commands/nanoc.rb:39:in `block in define'
-  15. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
-  16. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
-  17. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
-  18. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli.rb:52:in `block in run'
-  19. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:70:in `handle_while'
-  20. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
-  21. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli.rb:50:in `run'
-  22. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/bin/nanoc:19:in `<top (required)>'
-  23. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/bin/nanoc:23:in `load'
-  24. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/bin/nanoc:23:in `<main>'
-  25. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval'
-  ... 28 more lines omitted. See full crash log for details.
+  0. layout /default/:1:in `get_binding'
+  1. /Users/jeffreyguenette/.rvm/rubies/ruby-2.0.0-p0/lib/ruby/2.0.0/erb.rb:849:in `eval'
+  2. /Users/jeffreyguenette/.rvm/rubies/ruby-2.0.0-p0/lib/ruby/2.0.0/erb.rb:849:in `result'
+  3. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/filters/erb.rb:34:in `run'
+  4. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/filter.rb:122:in `setup_and_run'
+  5. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/result_data/item_rep.rb:409:in `layout'
+  6. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/item_rep_proxy.rb:69:in `layout'
+  7. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/rule_context.rb:68:in `layout'
+  8. ./Rules:25:in `block in load'
+  9. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/rule.rb:68:in `instance_eval'
+  10. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/rule.rb:68:in `apply_to'
+  11. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/compiler.rb:383:in `compile_rep'
+  12. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/compiler.rb:339:in `block in compile_reps'
+  13. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/compiler.rb:332:in `loop'
+  14. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/compiler.rb:332:in `compile_reps'
+  15. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/compilation/compiler.rb:89:in `run'
+  16. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/base/source_data/site.rb:58:in `compile'
+  17. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/commands/compile.rb:363:in `block in run'
+  18. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/commands/compile.rb:404:in `run_listeners_while'
+  19. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/commands/compile.rb:362:in `run'
+  20. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/command_runner.rb:14:in `block in call'
+  21. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:70:in `handle_while'
+  22. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  23. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/command_runner.rb:13:in `call'
+  24. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command_dsl.rb:185:in `block in runner'
+  25. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
+  26. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
+  27. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
+  28. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/commands/nanoc.rb:39:in `block in define'
+  29. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
+  30. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
+  31. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
+  32. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli.rb:52:in `block in run'
+  33. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:70:in `handle_while'
+  34. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  35. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/lib/nanoc/cli.rb:50:in `run'
+  36. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/gems/nanoc-3.6.3/bin/nanoc:19:in `<top (required)>'
+  37. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/bin/nanoc:23:in `load'
+  38. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/bin/nanoc:23:in `<main>'
+  39. /Users/jeffreyguenette/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval'
+  ... 42 more lines omitted. See full crash log for details.
 
 ===== VERSION INFORMATION:
 

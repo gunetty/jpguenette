@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"À#<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"Ø#<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -170,7 +170,9 @@
 <!-- friends links :: end -->
 
 
-
+			
+			<p>test!</p>
+			
 			<!-- footer :: begin -->
 			<div class="footer">
 				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
@@ -185,6 +187,7 @@
 		<!-- container :: end -->
   </body>
 </html>
+
 ;T:rawI"þ<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
@@ -592,7 +595,7 @@ img.abstractImage {
 	border-top: 1px solid black;
 	text-align:center;
 };T;	@;
-@I"/jeff/;T{;{ I"/thumbs/AAES2012thyroid/;T{;{ I"/thumbs/IGI2013lung/;T{;{ I"/thumbs/JSO2010CHM/;T{;{ I"/thumbs/JVIR2013thyroid/;T{;{ I"#/thumbs/Radiology2013bonemets/;T{;{ I" /thumbs/RSNA2012extracrani/;T{;{ I" /thumbs/RSNA2012modalities/;T{;{ I"/ruby_logo/;T{;{ I"/JSO2010CHM/;T{;{	;I";	<!DOCTYPE HTML>
+@I"/jeff/;T{;{ I"/thumbs/AAES2012thyroid/;T{;{ I"/thumbs/IGI2013lung/;T{;{ I"/thumbs/JSO2010CHM/;T{;{ I"/thumbs/JVIR2013thyroid/;T{;{ I"#/thumbs/Radiology2013bonemets/;T{;{ I" /thumbs/RSNA2012extracrani/;T{;{ I" /thumbs/RSNA2012modalities/;T{;{ I"/ruby_logo/;T{;{ I"/JSO2010CHM/;T{;{	;I"S	<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -635,7 +638,9 @@ img.abstractImage {
 <p><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
 
 <div class="clear"></div>
-
+			
+			<p>test!</p>
+			
 			<!-- footer :: begin -->
 			<div class="footer">
 				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
@@ -650,6 +655,7 @@ img.abstractImage {
 		<!-- container :: end -->
   </body>
 </html>
+
 ;T;	I"B<h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
 
 <p class="mainContent_abstractData">
