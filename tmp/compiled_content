@@ -1,8 +1,8 @@
-{:	data{I"/:ET{:default{	:	lastI"¿#<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"À#<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey P. Guenette :: Home</title>
+		<title>Jeffrey P. Guenette </title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -64,7 +64,7 @@
 <h2>Scientific Publications</h2>
 <img class="thumb" src="thumbs/JSO2010CHM.jpg" alt="CHM Ablation Image">
 <p class="cv">
-	<a href="JSO2010CHM.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
+	<a href="JSO2010CHM/index.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
 	Guenette JP, Dupuy DE<br>
 	J Surg Oncol. 2010;102(8):978-87
 </p>
@@ -169,6 +169,8 @@
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
 <!-- friends links :: end -->
 
+
+
 			<!-- footer :: begin -->
 			<div class="footer">
 				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
@@ -183,7 +185,7 @@
 		<!-- container :: end -->
   </body>
 </html>
-;T:rawI"ö<!-- title block :: begin -->
+;T:rawI"þ<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
 <p class="geo">Brown University<br>
@@ -230,7 +232,7 @@
 <h2>Scientific Publications</h2>
 <img class="thumb" src="thumbs/JSO2010CHM.jpg" alt="CHM Ablation Image">
 <p class="cv">
-	<a href="JSO2010CHM.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
+	<a href="JSO2010CHM/index.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
 	Guenette JP, Dupuy DE<br>
 	J Surg Oncol. 2010;102(8):978-87
 </p>
@@ -333,7 +335,9 @@
 	<a href="http://www.spacefeeler.com/" target="hyunch">www.spacefeeler.com</a></p>
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
-<!-- friends links :: end -->;T:preI"ö<!-- title block :: begin -->
+<!-- friends links :: end -->
+
+;T:preI"þ<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
 <p class="geo">Brown University<br>
@@ -380,7 +384,7 @@
 <h2>Scientific Publications</h2>
 <img class="thumb" src="thumbs/JSO2010CHM.jpg" alt="CHM Ablation Image">
 <p class="cv">
-	<a href="JSO2010CHM.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
+	<a href="JSO2010CHM/index.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
 	Guenette JP, Dupuy DE<br>
 	J Surg Oncol. 2010;102(8):978-87
 </p>
@@ -483,8 +487,10 @@
 	<a href="http://www.spacefeeler.com/" target="hyunch">www.spacefeeler.com</a></p>
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
-<!-- friends links :: end -->;T:	post@
-I"/stylesheet/;T{;{;I"body {
+<!-- friends links :: end -->
+
+;T:	post@
+I"/stylesheet/;T{;{;I"¼body {
 	background: #446644;
 	margin: 80px 0 0 0;
 	padding: 0px;
@@ -520,9 +526,16 @@ h2 {
 	color: #FFFFFF;
 	font-size: 22px;
 	font-weight: bold;
-	margin: 30px 0 0 0;	
-	padding: 20px 0 0 0;
+	margin: 30px 0 5px 0;	
+	padding: 25px 0 0 0;
 	clear: both;
+}
+
+h3 {
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px 0 0 0;	
 }
 
 p {
@@ -563,14 +576,125 @@ img.thumb {
 	margin: 20px 15px 0 0;
 }
 
+img.abstractImage {
+	float: left;
+	position: relative;
+	margin-right: 15px;
+}
+
 .clear { 
 	clear: both;
 }
 
 .footer {
+	padding: 15px 0 30px 0;
+	margin: 25px 0 0 0;
+	border-top: 1px solid black;
 	text-align:center;
-	padding:15px 0 30px 0;
-	margin-top:25px;
-	border-top:1px solid black;
 };T;	@;
-@I"/jeff/;T{;{ I"/thumbs/AAES2012thyroid/;T{;{ I"/thumbs/IGI2013lung/;T{;{ I"/thumbs/JSO2010CHM/;T{;{ I"/thumbs/JVIR2013thyroid/;T{;{ I"#/thumbs/Radiology2013bonemets/;T{;{ I" /thumbs/RSNA2012extracrani/;T{;{ I" /thumbs/RSNA2012modalities/;T{;{ I"/ruby_logo/;T{;{ :versioni
+@I"/jeff/;T{;{ I"/thumbs/AAES2012thyroid/;T{;{ I"/thumbs/IGI2013lung/;T{;{ I"/thumbs/JSO2010CHM/;T{;{ I"/thumbs/JVIR2013thyroid/;T{;{ I"#/thumbs/Radiology2013bonemets/;T{;{ I" /thumbs/RSNA2012extracrani/;T{;{ I" /thumbs/RSNA2012modalities/;T{;{ I"/ruby_logo/;T{;{ I"/JSO2010CHM/;T{;{	;I";	<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<title>Jeffrey P. Guenette :: Scientific Publications</title>
+		<meta name="description" content="Jeffrey Guenette">
+		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
+		<meta name="author" content="Jeffrey P. Guenette">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="generator" content="nanoc 3.6.3"> 
+  </head>
+  <body>
+		<!-- container :: begin -->
+		<div id="container">
+ 
+			<!-- title block :: begin -->
+			<h1>Jeffrey P. Guenette &#47; Scientific Publications</h1>
+			<!-- title block :: end -->
+ 
+      <h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
+
+<p class="mainContent_abstractData">
+	Guenette JP, Dupuy DE<br>
+	J Surg Oncol. 2010;102(8):978-87<br>
+	Publication Access via <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21166002" target="pubmed">PubMed</a>
+</p>
+
+
+<h3>
+	<img class="abstractImage" src="../largeimages/thyroid375.jpg" alt="Thyroid Ablation Image">
+	Abstract:
+</h3> 
+<p>
+	Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
+	approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
+	be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
+	anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
+	increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.
+</p>
+
+<p><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
+
+<div class="clear"></div>
+
+			<!-- footer :: begin -->
+			<div class="footer">
+				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+					width="32" height="32" alt="HTML5 Powered with CSS3 / Styling, and Semantics"></a>&nbsp;
+				<a href="http://jigsaw.w3.org/css-validator/check/referer" target="w3"><img style="border:0;width:88px;height:31px" 
+					src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a>&nbsp;
+				<img src="ruby_logo.gif" alt="Ruby Programming Language" width="28" height="32">
+			</div>
+			<!-- footer :: end --> 
+		
+		</div>
+		<!-- container :: end -->
+  </body>
+</html>
+;T;	I"B<h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
+
+<p class="mainContent_abstractData">
+	Guenette JP, Dupuy DE<br>
+	J Surg Oncol. 2010;102(8):978-87<br>
+	Publication Access via <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21166002" target="pubmed">PubMed</a>
+</p>
+
+
+<h3>
+	<img class="abstractImage" src="../largeimages/thyroid375.jpg" alt="Thyroid Ablation Image">
+	Abstract:
+</h3> 
+<p>
+	Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
+	approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
+	be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
+	anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
+	increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.
+</p>
+
+<p><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
+
+<div class="clear"></div>;T;
+I"B<h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
+
+<p class="mainContent_abstractData">
+	Guenette JP, Dupuy DE<br>
+	J Surg Oncol. 2010;102(8):978-87<br>
+	Publication Access via <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21166002" target="pubmed">PubMed</a>
+</p>
+
+
+<h3>
+	<img class="abstractImage" src="../largeimages/thyroid375.jpg" alt="Thyroid Ablation Image">
+	Abstract:
+</h3> 
+<p>
+	Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
+	approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
+	be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
+	anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
+	increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.
+</p>
+
+<p><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
+
+<div class="clear"></div>;T;@/I"/largeimages/thyroid375/;T{;{ :versioni
