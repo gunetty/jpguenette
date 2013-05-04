@@ -34,8 +34,8 @@ h2 {
 	color: #FFFFFF;
 	font-size: 22px;
 	font-weight: bold;
-	margin: 20px 0 0 0;	
-	padding: 30px 0 0 0;
+	margin: 25px 0 5px 0;	
+	padding: 25px 0 0 0;
 	clear: both;
 }
 
@@ -73,7 +73,7 @@ p.return {
 }
 
 #first {
-	margin: 35px 0 0 0;
+	margin: 40px 0 0 0;
 }
 
 img.photo {
