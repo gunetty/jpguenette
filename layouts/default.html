@@ -1,5 +1,23 @@
 <%= render '_header' %>
  
-      <%= yield %>
+<h2><%= @item[:pagehead] %></h2>
+
+<p class="mainContent_abstractData">
+	<%= @item[:author_names] %><br>
+	<%= @item[:journal_info] %><br>
+	<% if @item[:pubmed_link] %>Publication Access via <a href="<%= @item[:pubmed_link] %>" target="pubmed">PubMed</a><% end %>
+</p>
+
+<h3>
+	<img class="abstractImage" src="<%= @item[:img_link] %>" alt="Thyroid Ablation Image">
+	<%= @item[:pagesubhead] %>:
+</h3> 
+<p>
+	<%= yield %>
+</p>
+
+<p class="return"><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
+
+<div class="clear"></div>
 			
 <%= render '_footer' %>

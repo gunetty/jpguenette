@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"Ä#<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"Ú#<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -14,10 +14,10 @@
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette </h1>
+			<h1>Jeffrey P. Guenette <span class="subtitle"></span></h1>
 			<!-- title block :: end -->
  
-      <!-- title block :: begin -->
+<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
 <p class="geo">Brown University<br>
@@ -168,8 +168,6 @@
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
 <!-- friends links :: end -->
-
-
 			
 			<!-- footer :: begin -->
 			<div class="footer">
@@ -186,7 +184,7 @@
   </body>
 </html>
 
-;T:rawI"þ<!-- title block :: begin -->
+;T:rawI"ü<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
 <p class="geo">Brown University<br>
@@ -336,162 +334,8 @@
 	<a href="http://www.spacefeeler.com/" target="hyunch">www.spacefeeler.com</a></p>
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
-<!-- friends links :: end -->
-
-;T:preI"þ<!-- title block :: begin -->
-<img class="photo" src="jeff.jpg" alt="Photo of Jeff">
-
-<p class="geo">Brown University<br>
-	Warren Alpert Medical School<br>
-	Class of 2013
-</p>
-<p class="geo">
-	jeffrey_guenette &#43; &#64;brown &#43; .edu<br>
-	<a href="http://gunetty.github.com">jpguenette.github.com</a>
-</p>
-<p class="geo">
-	<a href="GuenetteJP_CV.pdf">Current CV</a> (download as PDF)
-</p>
-<!-- title block :: end -->
-
-<!-- bio block :: begin -->
-<p class="bio" id="first">
-	I am a fourth-year medical student at <a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a>. 
-	In June I will begin an internship in Internal Medicine at <a href="http://www.mountauburnhospital.org" target="auburn">
-	Mount Auburn Hospital</a> and in July 2014 I will begin a Radiology residency at 
-	<a href="http://www.brighamandwomens.org" target="brigham">Brigham &#38; Women's Hospital</a>. I will also hold a Clinical 
-	Fellow appointment at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
-</p>
-<p class="bio">
-	Throughout medical school I have conducted clinical research with 
-	<a href="http://biomed.brown.edu/facultydirectory/profile.php?id=1100924038" target="dupuy">Damian Dupuy</a>, studying 
-	outcomes and imaging features associated with percutaneous image-guided tumor ablation. I am interested in minimizing 
-	medical treatment morbidity, medical waste, and medical costs.
-</p>
-<p class="bio">
-	Prior to medical school I worked in New York City at <a href="http://www.crystalco.com" target="crystal">Crystal &#38; 
-	Company</a> for over five years as a business analyst and completed a postbac at 
-	<a href="http://gs.columbia.edu/postbac/" target="columbia"> Columbia University</a>. I graduated from 
-	<a href="www.dartmouth.edu" target="dartmouth">Dartmouth College</a> with a BA in ancient history.
-</p>
-<p class="bio">
-	I am on <a href="https://twitter.com/gunetty" target="twitter">twitter</a> and 
-	<a href="https://www.facebook.com/jpguenette" target="facebook">facebook</a> and I am married to 
-	<a href="http://www.margaritamartinez.com" target="margarita">Margarita Martinez</a>, an actor, TV host, and singer-songwriter.
-</p>
-<!-- bio block :: end -->
-
-<!-- CV :: begin -->
-<h2>Scientific Publications</h2>
-<img class="thumb" src="thumbs/JSO2010CHM.jpg" alt="CHM Ablation Image">
-<p class="cv">
-	<a href="JSO2010CHM/index.html">Radiofrequency ablation of colorectal hepatic metastases</a><br>
-	Guenette JP, Dupuy DE<br>
-	J Surg Oncol. 2010;102(8):978-87
-</p>
-<div class="clear"></div>
-<img class="thumb" src="thumbs/JVIR2013thyroid.jpg" alt="Thyroid Ablation Image">
-<p class="cv"><a href="#">Image-guided Ablation of Postsurgical Locoregional Recurrence of Biopsy-proven Well-differentiated 
-	Thyroid Carcinoma</a><br> 
-	Guenette JP, Monchik JM, Dupuy DE<br>
-	J Vasc Interv Radiol. 2013 May;24(5):672-9
-</p>
-<div class="clear"></div>
-<img class="thumb" src="thumbs/Radiology2013bonemets.jpg" alt="Bone Ablation Image">
-<p class="cv"><a href="#">Solitary Painful Osseous Metastases: Correlation of Imaging-Features with Pain Palliation 
-	after Radiofrequency Ablation &#45; A Multicenter American College of Radiology Imaging Network Study</a><br>
-	Guenette JP, Lopez MJ, Kim E, Dupuy DE<br>
-	Radiology. In Press.
-</p>
-<div class="clear"></div>
-<img class="thumb" src="thumbs/IGI2013lung.jpg" alt="Lung Ablation Image">
-<p class="cv"><a href="#">Lung Ablation</a><br>
-	Guenette JP, Dupuy DE in Mauro et. al., ed.<br>
-	Image Guided Interventions 2/e<br>
-	Elsevier. In Press.
-</p>
-<div class="clear"></div>
-
-<h2>Scientific Abstracts</h2>
-<img class="thumb" src="thumbs/JVIR2013thyroid.jpg" alt="Thyroid Ablation Image">
-<p class="cv"><a href="#">Percutaneous Radiofrequency and Alcohol Ablation of Locally Recurrent Well-Differentiated 
-	Thyroid Cancer</a><br>
-	Guenette JP, Monchik JM, Dupuy DE<br>
-	New England Surgical Society 92nd Annual Meeting<br>
-	September 23-25, 2011, Bretton Woods, NH
-</p>
-<div class="clear"></div>
-<img class="thumb" src="thumbs/Radiology2013bonemets.jpg" alt="Bone Ablation Image">
-<p class="cv"><a href="#">CT-guided Percutaneous Radiofrequency Ablation of Painful Bone Metastases</a><br>
-	Guenette JP, Hanna L, Ahrar K, Lopez-Ben RR, Dupuy DE<br>
-	Radiological Society of North America 97th Scientific Assembly and National Meeting<br>
-	December 1, 2011, Chicago, IL
-</p>
-<div class="clear"></div>
-
-<h2>Scientific &#38; Educational Exhibits</h2>
-<img class="thumb" src="thumbs/AAES2012thyroid.jpg" alt="Poster Thumbnail">
-<p class="cv"><a href="#">Image-Guided Ablation of Local Recurrent and Distant Metastatic Well-Differentiated 
-	Thyroid Cancer</a><br>
-	Guenette JP, Monchik JM, Dupuy DE<br>
-	American Association of Endocrine Surgeons Annual Meeting<br>
-	April 29-May 1, 2012, Iowa City, IA
-</p>
-<div class="clear"></div>
-<img class="thumb" src="thumbs/RSNA2012extracrani.jpg" alt="Poster Thumbnail">
-<p class="cv"><a href="#">Extracranial Tumors of the Head and Neck: Palliative and Curative Roles for Image-Guided 
-	Ablation</a><br>
-	Guenette JP, Monchik JM, Dupuy DE<br>
-	Radiological Society of North America 98th Scientific Assembly and National Meeting<br>
-	November 25-30, 2012, Chicago, IL
-</p>
-<div class="clear"></div>
-<img class="thumb" src="thumbs/RSNA2012modalities.jpg" alt="Poster Thumbnail">
-<p class="cv"><a href="#">A Guide to Choosing the Best Thermal Ablation Modality When Treating Soft Tissue Tumors</a><br>
-	Guenette JP, Mayo-Smith WW, Healey TT, Iannuccilli JD, Dupuy DE<br>
-	Radiological Society of North America 98th Scientific Assembly and National Meeting<br>
-	November 25-30, 2012, Chicago, IL<br>
-	Awarded: Certificate of Merit
-</p>
-<div class="clear"></div>
-<!-- CV :: end -->
-
-<!-- interesting links :: start -->
-<h2>Thoughtful &#38; Provocative Links</h2>
-
-<p class="begin">The best statistics/public health presentation you will ever see: 
-	<a href="http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html">Hans Rosling @ TED</a></p>
-<p>Why too many medical tests is a bad thing: 
-	<a href="http://www.nytimes.com/2009/12/13/magazine/13Fob-wwln-t.html">Mammogram Math @ NY Times</a></p>
-<p>Why biased research is a bad thing: 
-	<a href="http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/" target="new">
-	Lies, Damned Lies, and Medical Science @ The Atlantic</a></p>
-<p>Climate change exists and you should care: 
-	<a href="http://www.wired.com/wiredscience/2009/12/climate-psychology/">Psychology of Climate Change @ Wired</a></p>
-<p>Eat organic, pesticides mess with your brain: 
-	<a href="http://www.reuters.com/article/idUSTRE67N4X920100824">Pesticides Linked to Attention Problems @ Reuters</a></p>
-<p>Why we should stop being so wasteful: <a href="http://www.storyofstuff.com/">Story of Stuff</a></p>
-<!-- interesting links :: end -->
-
-<!-- friends links :: start -->
-<h2>Artistic Friends</h2>
-<p class="begin">Margarita Martinez (my wife), actor and singer/songwriter: 
-	<a href="http://www.margaritamartinez.com" target="margarita">www.margaritamartinez.com</a></p>
-<p>Leah Bonvissuto, theater director: 
-	<a href="http://www.leahbonvissuto.com" target="leah">www.leahbonvissuto.com</a></p>
-<p>Tatiana Gomberg, actor: <a href="http://www.tatianagomberg.com" target="tatiana">www.tatianagomberg.com</a></p>
-<p>Hannah Kasper, painter: <a href="http://www.hannahkasper.com">www.hannahkasper.com</a></p>
-<p>Stephen Levinson, writer: <a href="http://www.stephenlevinson.com">www.stephenlevinson.com</a></p>
-<p>Timothy McDonough, actor: 
-	<a href="http://www.timothyjohnmcdonough.com" target="tim">www.timothyjohnmcdonough.com</a></p>
-<p>Hyunch Sung, installation artist/landscape architect: 
-	<a href="http://www.spacefeeler.com/" target="hyunch">www.spacefeeler.com</a></p>
-<p>Hannah Volfson, graphic designer: 
-	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
-<!-- friends links :: end -->
-
-;T:	post@
-I"/stylesheet/;T{;{;I"¼body {
+<!-- friends links :: end -->;T:pre@:	post@
+I"/stylesheet/;T{;{;I"body {
 	background: #446644;
 	margin: 80px 0 0 0;
 	padding: 0px;
@@ -561,6 +405,10 @@ p.begin {
 	margin: 20px 0 0 0;
 }
 
+p.return {
+	margin: 20px 0 0 0;
+}
+
 #first {
 	margin: 40px 0 0 0;
 }
@@ -583,6 +431,11 @@ img.abstractImage {
 	margin-right: 15px;
 }
 
+span.subtitle {
+	color: #DDDDDD;
+	font-size: 28px;
+}
+
 .clear { 
 	clear: both;
 }
@@ -592,8 +445,8 @@ img.abstractImage {
 	margin: 25px 0 0 0;
 	border-top: 1px solid black;
 	text-align:center;
-};T;	@;
-@I"/jeff/;T{;{ I"/thumbs/AAES2012thyroid/;T{;{ I"/thumbs/IGI2013lung/;T{;{ I"/thumbs/JSO2010CHM/;T{;{ I"/thumbs/JVIR2013thyroid/;T{;{ I"#/thumbs/Radiology2013bonemets/;T{;{ I" /thumbs/RSNA2012extracrani/;T{;{ I" /thumbs/RSNA2012modalities/;T{;{ I"/ruby_logo/;T{;{ I"/JSO2010CHM/;T{;{	;I"?	<!DOCTYPE HTML>
+};T;	@;
+@I"/jeff/;T{;{ I"/thumbs/AAES2012thyroid/;T{;{ I"/thumbs/IGI2013lung/;T{;{ I"/thumbs/JSO2010CHM/;T{;{ I"/thumbs/JVIR2013thyroid/;T{;{ I"#/thumbs/Radiology2013bonemets/;T{;{ I" /thumbs/RSNA2012extracrani/;T{;{ I" /thumbs/RSNA2012modalities/;T{;{ I"/ruby_logo/;T{;{ I"/JSO2010CHM/;T{;{	;I"a	<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -609,10 +462,10 @@ img.abstractImage {
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette &#47; Scientific Publications</h1>
+			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
 			<!-- title block :: end -->
  
-      <h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
+<h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
 
 <p class="mainContent_abstractData">
 	Guenette JP, Dupuy DE<br>
@@ -620,20 +473,19 @@ img.abstractImage {
 	Publication Access via <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21166002" target="pubmed">PubMed</a>
 </p>
 
-
 <h3>
 	<img class="abstractImage" src="../largeimages/thyroid375.jpg" alt="Thyroid Ablation Image">
 	Abstract:
 </h3> 
 <p>
 	Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
-	approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
-	be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
-	anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
-	increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.
+approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
+be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
+anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
+increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.
 </p>
 
-<p><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
+<p class="return"><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
 
 <div class="clear"></div>
 			
@@ -652,51 +504,13 @@ img.abstractImage {
   </body>
 </html>
 
-;T;	I"B<h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
-
-<p class="mainContent_abstractData">
-	Guenette JP, Dupuy DE<br>
-	J Surg Oncol. 2010;102(8):978-87<br>
-	Publication Access via <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21166002" target="pubmed">PubMed</a>
-</p>
-
-
-<h3>
-	<img class="abstractImage" src="../largeimages/thyroid375.jpg" alt="Thyroid Ablation Image">
-	Abstract:
-</h3> 
-<p>
-	Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
-	approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
-	be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
-	anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
-	increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.
-</p>
-
-<p><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
-
-<div class="clear"></div>;T;
-I"B<h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
-
-<p class="mainContent_abstractData">
-	Guenette JP, Dupuy DE<br>
-	J Surg Oncol. 2010;102(8):978-87<br>
-	Publication Access via <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21166002" target="pubmed">PubMed</a>
-</p>
-
-
-<h3>
-	<img class="abstractImage" src="../largeimages/thyroid375.jpg" alt="Thyroid Ablation Image">
-	Abstract:
-</h3> 
-<p>
-	Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
-	approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
-	be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
-	anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
-	increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.
-</p>
-
-<p><a href="index.html">&#60;&#45;&#45; Return to Home Page</a></p>
-
-<div class="clear"></div>;T;@/I"/largeimages/thyroid375/;T{;{ :versioni
+;T;	I"@Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
+approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
+be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
+anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
+increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.;T;
+I"@Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
+approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
+be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
+anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
+increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.;T;@.I"/largeimages/thyroid375/;T{;{ :versioni

@@ -68,10 +68,6 @@ p.begin {
 	margin: 20px 0 0 0;
 }
 
-p.return {
-	margin: 20px 0 0 0;
-}
-
 #first {
 	margin: 40px 0 0 0;
 }
@@ -95,8 +91,8 @@ img.abstractImage {
 }
 
 span.subtitle {
-	color: #DDDDDD;
-	font-size: 28px;
+	color: #AAAAAA;
+	font-size: 30px;
 }
 
 .clear { 

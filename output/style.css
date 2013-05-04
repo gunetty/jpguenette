@@ -68,6 +68,10 @@ p.begin {
 	margin: 20px 0 0 0;
 }
 
+p.return {
+	margin: 20px 0 0 0;
+}
+
 #first {
 	margin: 40px 0 0 0;
 }
@@ -88,6 +92,11 @@ img.abstractImage {
 	float: left;
 	position: relative;
 	margin-right: 15px;
+}
+
+span.subtitle {
+	color: #DDDDDD;
+	font-size: 28px;
 }
 
 .clear { 
