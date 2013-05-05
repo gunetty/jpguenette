@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<title>Jeffrey P. Guenette :: Scientific Publications</title>
+		<meta name="description" content="Jeffrey Guenette">
+		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
+		<meta name="author" content="Jeffrey P. Guenette">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="generator" content="nanoc 3.6.3"> 
+  </head>
+  <body>
+		<!-- container :: begin -->
+		<div id="container">
+ 
+			<!-- title block :: begin -->
+			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
+			<!-- title block :: end -->
+ 
+<h2>Percutaneous Radiofrequency and Alcohol Ablation of Locally Recurrent Well-Differentiated Thyroid Cancer</h2>
+
+<p class="mainContent_abstractData">
+	Guenette JP, Monchik JM, Dupuy DE<br>
+	<br>
+	
+	New England Surgical Society 92nd Annual Meeting<br>
+	September 23-25, 2011, Bretton Woods, NH
+</p>
+
+<h3>
+	<img class="abstractImage" src="../largeimages/JVIR2013thyroid.jpg" alt="Thyroid Ablation Image">
+	Abstract:
+</h3> 
+<p>
+	OBJECTIVE: Assess the long-term outcomes of radiofrequency ablation (RFA) and alcohol ablation (EtOH) of local recurrences of well-differentiated thyroid cancer (WTC) following adequate surgery.<br><br>
+
+DESIGN: Retrospective cohort. Mean follow-up 51.5 months.<br><br>
+
+SETTING: Tertiary care center.<br><br>
+
+PATIENTS: Forty-two WTC lesions were treated in 23 patients from 1998 to 2010. Thirty-five lateral compartment lesions were treated, 19 with RFA, 16 with EtOH. Seven central compartment lesions were treated, 2 with RFA, 5 with EtOH. Patients with lateral compartment recurrences previously had modified neck dissection. Patients with central compartment recurrences previously had total thyroidectomy and careful central compartment node exploration and/or dissection. A single experienced endocrine surgeon performed all pre-ablation surgery.<br><br>
+
+INTERVENTIONS: Percutaneous CT-guided radiofrequency ablation and ultrasound-guided 100% ethanol injection.<br><br>
+
+MAIN OUTCOME MEASURE: Tumor recurrence, pre- and post-operative serum thyroglobulin (Tg), and procedural complications. Patients were followed with routine US, 131I whole body scan, and/or serum Tg levels.<br><br>
+
+RESULTS: No recurrent disease was detected in any of the 21 lesions treated with RFA (average:1.5cm; range: 0.5-3.7cm). Recurrent disease was detected in 5 of the 21 lesions treated with EtOH (average: 1.1cm; range: 0.5-1.5cm). One lateral compartment recurrence was successfully treated with RFA, two others were successfully retreated with EtOH. Two central compartment recurrences required surgery. Permanent vocal cord paralysis occurred following one RFA procedure. Tg levels decreased to or remained at undetectable or low detectable levels following all 10 procedures for which both pre-ablation and post-ablation Tg levels were available with undetectable antibodies.<br><br>
+
+CONCLUSION: Both RFA and EtOH are safe and feasible treatment options for local WTC recurrence following adequate initial surgery by an experienced endocrine surgeon.
+</p>
+
+<p class="return"><a href="../index.html">Return to Home Page</a></p>
+
+<div class="clear"></div>
+			
+			<!-- footer :: begin -->
+			<div class="footer">
+				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+					width="32" height="32" alt="HTML5 Powered with CSS3 / Styling, and Semantics"></a>&nbsp;
+				<a href="http://jigsaw.w3.org/css-validator/check/referer" target="w3"><img style="border:0;width:88px;height:31px" 
+					src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a>&nbsp;
+				<img src="../ruby_logo.gif" alt="Ruby Programming Language" width="28" height="32">
+			</div>
+			<!-- footer :: end --> 
+		
+		</div>
+		<!-- container :: end -->
+  </body>
+</html>
+

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<title>Jeffrey P. Guenette :: Scientific Publications</title>
+		<meta name="description" content="Jeffrey Guenette">
+		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
+		<meta name="author" content="Jeffrey P. Guenette">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="generator" content="nanoc 3.6.3"> 
+  </head>
+  <body>
+		<!-- container :: begin -->
+		<div id="container">
+ 
+			<!-- title block :: begin -->
+			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
+			<!-- title block :: end -->
+ 
+<h2>A Guide to Choosing the Best Thermal Ablation Modality When Treating Soft Tissue Tumors</h2>
+
+<p class="mainContent_abstractData">
+	Guenette JP, Mayo-Smith WW, Healey TT, Iannuccilli JD, Dupuy DE
+	
+	
+	<br>Radiological Society of North America 98th Scientific Assembly and National Meeting
+	<br>November 25-30, 2012, Chicago, IL
+</p>
+
+<h3>
+	<img class="abstractImage" src="../largeimages/RSNA2012Modalities375.jpg" alt="Research-Related Image">
+	Abstract:
+</h3> 
+<p>
+	PURPOSE/AIM: To provide a review of the relevant basic science and to share experience that will help interventional radiologists consistently choose the optimal thermal ablation modality.<br><br>
+
+CONTENT ORGANIZATION: 1. Review of radiofrequency ablation, microwave ablation, and cryoablation biophysics; 2. Review of thermal ablation monitoring capabilities; 3. Anatomic considerations; 4. Tumor characteristic considerations; 5. Treatment goal considerations; 6. Pictorial review of interesting and demonstrative cases; 6. Summary of presented material.<br><br>
+
+SUMMARY: Research has shown the safety and efficacy of radiofrequency ablation, microwave ablation, and cryoablation in the treatment of a wide variety of tumors, however studies comparing the modalities are limited, many tumors amenable to ablation are unusually located, and the effects of and ability to monitor each modality varies significantly. By properly considering modality biophysics and monitoring, tumor characteristics, surrounding anatomy, and treatment goals, the interventional radiologist will be able to optimize outcomes on an ablationbyablation basis.
+</p>
+
+<p class="return"><a href="../index.html">Return to Home Page</a></p>
+
+<div class="clear"></div>
+			
+			<!-- footer :: begin -->
+			<div class="footer">
+				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+					width="32" height="32" alt="HTML5 Powered with CSS3 / Styling, and Semantics"></a>&nbsp;
+				<a href="http://jigsaw.w3.org/css-validator/check/referer" target="w3"><img style="border:0;width:88px;height:31px" 
+					src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a>&nbsp;
+				<img src="../ruby_logo.gif" alt="Ruby Programming Language" width="28" height="32">
+			</div>
+			<!-- footer :: end --> 
+		
+		</div>
+		<!-- container :: end -->
+  </body>
+</html>
+

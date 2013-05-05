@@ -3,20 +3,23 @@
 <h2><%= @item[:pagehead] %></h2>
 
 <p class="mainContent_abstractData">
-	<%= @item[:author_names] %><br>
-	<%= @item[:journal_info] %><br>
-	<% if @item[:pubmed_link] %>Publication Access via <a href="<%= @item[:pubmed_link] %>" target="pubmed">PubMed</a><% end %>
+	<%= @item[:author_names] %>
+	<% if @item[:journal_info] %><br><%= @item[:journal_info] %><% end %>
+	<% if @item[:pubmed_link] %><br>Publication Access via <a href="<%= @item[:pubmed_link] %>" target="pubmed">PubMed</a><% end %>
+	<% if @item[:meeting_info] %><br><%= @item[:meeting_info] %><% end %>
+	<% if @item[:meeting_dates] %><br><%= @item[:meeting_dates] %><% end %>
+	<% if @item[:pdf_link] %><br><a href="<%= @item[:pdf_link] %>">Download PDF</a><% end %>
 </p>
 
 <h3>
-	<img class="abstractImage" src="<%= @item[:img_link] %>" alt="Thyroid Ablation Image">
+	<img class="abstractImage" src="<%= @item[:img_link] %>" alt="Research-Related Image">
 	<%= @item[:pagesubhead] %>:
 </h3> 
 <p>
 	<%= yield %>
+	
+	<br><br><a href="../index.html">Return to Home Page</a>
 </p>
-
-<p class="return"><a href="../index.html">Return to Home Page</a></p>
 
 <div class="clear"></div>
 			

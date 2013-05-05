@@ -1,0 +1,110 @@
+body {
+	background: #446644;
+	margin: 80px 0 0 0;
+	padding: 0px;
+	text-align: center;
+}
+
+a, a:visited {
+	color:#CC9900;
+}
+
+a:hover {
+	color:#997700;
+}
+
+#container {
+	width: 900px;
+	margin: 0px auto;
+	text-align: left;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	color: #DDDDDD;
+	font-size: 16px;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+h2 {
+	border-top: 1px solid black;
+	color: #FFFFFF;
+	font-size: 22px;
+	font-weight: bold;
+	margin: 20px 0 0 0;	
+	padding: 30px 0 0 0;
+	clear: both;
+}
+
+h3 {
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px 0 0 0;	
+}
+
+p {
+	margin: 0 0 0 0;
+}
+
+p.geo {
+	margin: 10px 0 0 0;
+	font-size: 14px;
+}
+
+p.bio {
+	margin: 20px 0 0 0;
+}
+
+p.cv {
+	font-size: 14px;
+	margin: 20px 0 0 0;
+}
+
+p.begin {
+	margin: 20px 0 0 0;
+}
+
+p.return {
+	margin: 20px 0 0 0;
+}
+
+#first {
+	margin: 35px 0 0 0;
+}
+
+img.photo {
+	float: right;
+	position: relative;
+	margin: 5px 0 0 0;
+}
+
+img.thumb {
+	float: left;
+	position: relative;
+	margin: 20px 15px 0 0;
+}
+
+img.abstractImage {
+	float: left;
+	position: relative;
+	margin-right: 15px;
+}
+
+span.subtitle {
+	color: #DDDDDD;
+	font-size: 28px;
+}
+
+.clear { 
+	clear: both;
+}
+
+.footer {
+	padding: 15px 0 30px 0;
+	margin: 25px 0 0 0;
+	border-top: 1px solid black;
+	text-align:center;
+}
