@@ -1,6 +1,6 @@
 <%= render '_header' %>
  
-<h2><%= @item[:pagehead] %></h2>
+<h3><%= @item[:pagehead] %></h3>
 
 <p class="mainContent_abstractData">
 	<%= @item[:author_names] %>
@@ -11,10 +11,10 @@
 	<% if @item[:pdf_link] %><br><a href="<%= @item[:pdf_link] %>">Download PDF</a><% end %>
 </p>
 
-<h3>
+<h4>
 	<img class="abstractImage" src="<%= @item[:img_link] %>" alt="Research-Related Image">
 	<%= @item[:pagesubhead] %>:
-</h3> 
+</h4> 
 <p>
 	<%= yield %>
 	

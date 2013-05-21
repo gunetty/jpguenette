@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Publications</title>
+		<title>Jeffrey P. Guenette :: Scientific Publications</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -17,7 +17,7 @@
 			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
 			<!-- title block :: end -->
  
-<h3>Image-guided Ablation of Postsurgical Locoregional Recurrence of Biopsy-proven Well-differentiated Thyroid Carcinoma</h3>
+<h2>Image-guided Ablation of Postsurgical Locoregional Recurrence of Biopsy-proven Well-differentiated Thyroid Carcinoma</h2>
 
 <p class="mainContent_abstractData">
 	Guenette JP, Monchik JM, Dupuy DE
@@ -28,10 +28,10 @@
 	
 </p>
 
-<h4>
+<h3>
 	<img class="abstractImage" src="../largeimages/JVIR2013thyroid375.jpg" alt="Research-Related Image">
 	Abstract:
-</h4> 
+</h3> 
 <p>
 	PURPOSE: To evaluate the clinical outcomes of ultrasound-guided percutaneous radiofrequency (RF) ablation and percutaneous ethanol injection (PEI) as salvage therapy for locoregional recurrence after resection of well-differentiated thyroid carcinoma.<br><br>
 

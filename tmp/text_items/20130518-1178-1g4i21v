@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Publications</title>
+		<title>Jeffrey P. Guenette :: Scientific Publications</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -17,7 +17,7 @@
 			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
 			<!-- title block :: end -->
  
-<h3>Radiofrequency ablation of colorectal hepatic metastases</h3>
+<h2>Radiofrequency ablation of colorectal hepatic metastases</h2>
 
 <p class="mainContent_abstractData">
 	Guenette JP, Dupuy DE
@@ -28,10 +28,10 @@
 	
 </p>
 
-<h4>
-	<img class="abstractImage" src="../largeimages/thyroid375.jpg" alt="Research-Related Image">
+<h3>
+	<img class="abstractImage" src="../largeimages/JSO2010CHM375.jpg" alt="Research-Related Image">
 	Abstract:
-</h4> 
+</h3> 
 <p>
 	Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscopically, or percutaneously. The percutaneous 
 approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
