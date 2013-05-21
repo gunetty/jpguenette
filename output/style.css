@@ -41,6 +41,17 @@ h2 {
 }
 
 h3 {
+	border-top: 1px solid black;
+	color: #CC9900;
+	font-size: 22px;
+	font-weight: bold;
+	margin: 20px 0 0 0;	
+	padding: 30px 0 5px 0;
+	line-height: 1.3em;
+	clear: both;
+}
+
+h4 {
 	color: #FFFFFF;
 	font-size: 18px;
 	font-weight: bold;
@@ -67,7 +78,7 @@ p.cv {
 }
 
 p.begin {
-	margin: 20px 0 0 0;
+	margin: 10px 0 0 0;
 }
 
 p.return {
