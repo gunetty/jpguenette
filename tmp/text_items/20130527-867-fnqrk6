@@ -21,12 +21,12 @@
 <!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">As of June 13, 2013:<br>
-	Department of Internal Medicine<br>
-	Mount Auburn Hospital<br>
-	330 Mount Auburn Street<br>
-	Cambridge, MA 02138
+<!--
+<p class="geo">Brown University<br>
+	Warren Alpert Medical School<br>
+	Class of 2013
 </p>
+-->
 <p class="geo">
 	jeffrey_guenette &#43; &#64;brown &#43; .edu<br>
 	<a href="http://jpguenette.github.io">jpguenette.github.io</a>

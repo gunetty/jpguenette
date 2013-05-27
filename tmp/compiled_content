@@ -1,8 +1,8 @@
-{:	data{$I"/:ET{:default{	:	lastI"3+<!DOCTYPE HTML>
+{:	data{$I"/:ET{:default{	:	lastI"—+<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette </title>
+		<title>Jeffrey Guenette MD </title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -14,15 +14,18 @@
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle"></span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle"></span></h1>
 			<!-- title block :: end -->
  
 <!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">Brown University<br>
-	Warren Alpert Medical School<br>
-	Class of 2013
+<p class="geo">As of June 13, 2013:<br>
+	Department of Internal Medicine<br>
+	Mount Auburn Hospital<br>
+	330 Mount Auburn Street<br>
+	Cambridge, MA 02138
 </p>
 <p class="geo">
 	jeffrey_guenette &#43; &#64;brown &#43; .edu<br>
@@ -35,7 +38,8 @@
 
 <!-- bio block :: begin -->
 <p class="bio" id="first">
-	I am a fourth-year medical student at <a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a>. 
+	I have recently graduated from medical school at 
+	<a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a>. 
 	In June 2013 I will begin an internship in Internal Medicine at <a href="http://www.mountauburnhospital.org" target="auburn">
 	Mount Auburn Hospital</a> and in July 2014 I will begin a Radiology residency at 
 	<a href="http://www.brighamandwomens.org" target="brigham">Brigham &#38; Women's Hospital</a>. I will also hold a Clinical 
@@ -45,8 +49,8 @@
 	Throughout medical school I have conducted clinical research with 
 	<a href="http://biomed.brown.edu/facultydirectory/profile.php?id=1100924038" target="dupuy">Damian Dupuy</a>, studying 
 	outcomes of and imaging features associated with percutaneous image-guided tumor ablation. I am interested in minimizing 
-	medical treatment morbidity, medical waste, and medical costs. I am also fascinated by: human and computer vision; human 
-	morphology; and human evolutionary biology, particularly related to the gut.
+	medical treatment morbidity, medical waste, and medical costs. I am also fascinated by (though not necessary well-versed in): 
+	human and computer vision, human morphology, and human evolutionary biology.
 </p>
 <p class="bio">
 	Prior to medical school I worked in New York City at <a href="http://www.crystalco.com" target="crystal">Crystal &#38; 
@@ -207,12 +211,14 @@
   </body>
 </html>
 
-;T:rawI"U&<!-- title block :: begin -->
+;T:rawI"¬&<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">Brown University<br>
-	Warren Alpert Medical School<br>
-	Class of 2013
+<p class="geo">As of June 13, 2013:<br>
+	Department of Internal Medicine<br>
+	Mount Auburn Hospital<br>
+	330 Mount Auburn Street<br>
+	Cambridge, MA 02138
 </p>
 <p class="geo">
 	jeffrey_guenette &#43; &#64;brown &#43; .edu<br>
@@ -225,7 +231,8 @@
 
 <!-- bio block :: begin -->
 <p class="bio" id="first">
-	I am a fourth-year medical student at <a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a>. 
+	I have recently graduated from medical school at 
+	<a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a>. 
 	In June 2013 I will begin an internship in Internal Medicine at <a href="http://www.mountauburnhospital.org" target="auburn">
 	Mount Auburn Hospital</a> and in July 2014 I will begin a Radiology residency at 
 	<a href="http://www.brighamandwomens.org" target="brigham">Brigham &#38; Women's Hospital</a>. I will also hold a Clinical 
@@ -235,8 +242,8 @@
 	Throughout medical school I have conducted clinical research with 
 	<a href="http://biomed.brown.edu/facultydirectory/profile.php?id=1100924038" target="dupuy">Damian Dupuy</a>, studying 
 	outcomes of and imaging features associated with percutaneous image-guided tumor ablation. I am interested in minimizing 
-	medical treatment morbidity, medical waste, and medical costs. I am also fascinated by: human and computer vision; human 
-	morphology; and human evolutionary biology, particularly related to the gut.
+	medical treatment morbidity, medical waste, and medical costs. I am also fascinated by (though not necessary well-versed in): 
+	human and computer vision, human morphology, and human evolutionary biology.
 </p>
 <p class="bio">
 	Prior to medical school I worked in New York City at <a href="http://www.crystalco.com" target="crystal">Crystal &#38; 
@@ -575,11 +582,11 @@ I"@Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscop
 approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
 be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
 anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
-increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.;T;@.I"/largeimages/thyroid375/;T{;{ I"/publications/JSO2010CHM/;T{;{	;I"Q	<!DOCTYPE HTML>
+increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.;T;@.I"/largeimages/thyroid375/;T{;{ I"/publications/JSO2010CHM/;T{;{	;I"^	<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Publications</title>
+		<title>Jeffrey Guenette MD :: Scientific Publications</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -591,7 +598,8 @@ increase tumor ablation efficacy and expand its role in treatment of hepatic met
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific Publications</span></h1>
 			<!-- title block :: end -->
  
 <h3>Radiofrequency ablation of colorectal hepatic metastases</h3>
@@ -645,11 +653,11 @@ I"@Radiofrequency ablation (RFA) may be performed intraoperatively, laparoscop
 approach is associated with the least procedural risk and may be performed under local anesthesia. Percutaneous RFA should 
 be considered a primary treatment option for patients with unresectable hepatic tumors or conditions that prohibit general 
 anesthesia or abdominal surgery. Continually improving thermal ablation and imaging technologies are likely to further 
-increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.;T;@7I"#/publications/JVIR2013Thyroid/;T{;{	;I"²<!DOCTYPE HTML>
+increase tumor ablation efficacy and expand its role in treatment of hepatic metastases.;T;@7I"#/publications/JVIR2013Thyroid/;T{;{	;I"¿<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Publications</title>
+		<title>Jeffrey Guenette MD :: Scientific Publications</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -661,7 +669,8 @@ increase tumor ablation efficacy and expand its role in treatment of hepatic met
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific Publications</span></h1>
 			<!-- title block :: end -->
  
 <h3>Image-guided Ablation of Postsurgical Locoregional Recurrence of Biopsy-proven Well-differentiated Thyroid Carcinoma</h3>
@@ -721,11 +730,11 @@ MATERIALS AND METHODS: There were 42 locoregional, biopsy-proven, papillary and 
 
 RESULTS: Average follow-up after RF ablation was 61.3 months and after PEI was 38.5 months. No progression was detected in the region of ablation for any of the lesions treated with RF ablation. Local progression was detected 4-11 months after ablation in 5 of the 21 lesions treated with PEI, 3 in the lateral compartment and 2 in the central compartment; all of the lesions were successfully retreated with repeat PEI, RF ablation, or surgery. Permanent vocal cord paralysis occurred after one RF ablation procedure of a lateral compartment supraclavicular node. There were no complications after PEI.<br><br>
 
-CONCLUSIONS: This case series provides long-term follow-up evidence of the safety and efficacy of ultrasound-guided RF ablation and PEI for control of locoregional recurrence of well-differentiated thyroid carcinoma after surgery.;T;@=I" /abstracts/NESS2011Thyroid/;T{;{	;I"<!DOCTYPE HTML>
+CONCLUSIONS: This case series provides long-term follow-up evidence of the safety and efficacy of ultrasound-guided RF ablation and PEI for control of locoregional recurrence of well-differentiated thyroid carcinoma after surgery.;T;@=I" /abstracts/NESS2011Thyroid/;T{;{	;I"#<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Abstracts</title>
+		<title>Jeffrey Guenette MD :: Scientific Abstracts</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -737,7 +746,8 @@ CONCLUSIONS: This case series provides long-term follow-up evidence of the safet
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Abstracts</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific Abstracts</span></h1>
 			<!-- title block :: end -->
  
 <h3>Percutaneous Radiofrequency and Alcohol Ablation of Locally Recurrent Well-Differentiated Thyroid Cancer</h3>
@@ -821,11 +831,11 @@ MAIN OUTCOME MEASURE: Tumor recurrence, pre- and post-operative serum thyroglobu
 
 RESULTS: No recurrent disease was detected in any of the 21 lesions treated with RFA (average:1.5cm; range: 0.5-3.7cm). Recurrent disease was detected in 5 of the 21 lesions treated with EtOH (average: 1.1cm; range: 0.5-1.5cm). One lateral compartment recurrence was successfully treated with RFA, two others were successfully retreated with EtOH. Two central compartment recurrences required surgery. Permanent vocal cord paralysis occurred following one RFA procedure. Tg levels decreased to or remained at undetectable or low detectable levels following all 10 procedures for which both pre-ablation and post-ablation Tg levels were available with undetectable antibodies.<br><br>
 
-CONCLUSION: Both RFA and EtOH are safe and feasible treatment options for local WTC recurrence following adequate initial surgery by an experienced endocrine surgeon.;T;@CI"/abstracts/RSNA2011Bone/;T{;{	;I"<!DOCTYPE HTML>
+CONCLUSION: Both RFA and EtOH are safe and feasible treatment options for local WTC recurrence following adequate initial surgery by an experienced endocrine surgeon.;T;@CI"/abstracts/RSNA2011Bone/;T{;{	;I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Abstracts</title>
+		<title>Jeffrey Guenette MD :: Scientific Abstracts</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -837,7 +847,8 @@ CONCLUSION: Both RFA and EtOH are safe and feasible treatment options for local 
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Abstracts</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific Abstracts</span></h1>
 			<!-- title block :: end -->
  
 <h3>CT-guided Percutaneous Radiofrequency Ablation of Painful Bone Metastases</h3>
@@ -906,11 +917,11 @@ RESULTS: The distance to the nearest NV bundle for tumors !2cm from a major NV b
 
 CONCLUSION: RFA reduction of pain from bone metastases is more effective with increased distance between the tumor and nearby major neurovascular bundles when a tumor is within 2cm of a major NV bundle. Other parameters may correlate with efficacy. Further statistical analysis is required. Work funded by grants U01 CA079778 and U01 CA080098.<br><br>
 
-CLINICAL RELEVANCE/APPLICATION: Identifying imaging features associated with radiofrequency ablation effects on bone metastasis pain is important to future patient selection and to expanded use of this modality in palliative care.;T;@II"/exhibits/AAES2012Thyroid/;T{;{	;I"<!DOCTYPE HTML>
+CLINICAL RELEVANCE/APPLICATION: Identifying imaging features associated with radiofrequency ablation effects on bone metastasis pain is important to future patient selection and to expanded use of this modality in palliative care.;T;@II"/exhibits/AAES2012Thyroid/;T{;{	;I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific &#38; Educational Exhibits</title>
+		<title>Jeffrey Guenette MD :: Scientific &#38; Educational Exhibits</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -922,7 +933,8 @@ CLINICAL RELEVANCE/APPLICATION: Identifying imaging features associated with rad
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific &#38; Educational Exhibits</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific &#38; Educational Exhibits</span></h1>
 			<!-- title block :: end -->
  
 <h3>Image-Guided Ablation of Local Recurrent and Distant Metastatic Well-Differentiated Thyroid Cancer</h3>
@@ -1000,11 +1012,11 @@ RESULTS: Mean follow-up for treatment of neck lesions was 47.6 months. No recurr
 were available for 9 of the 19 patients treated with neck ablation. In these patients, Tg levels decreased to or remained at undetectable or low detectable levels following ablation. Two of the 11 distant focal metastases recurred and were successfully
 retreated with RFA, the remainder showed no sign of recurrence or disease progression at the treatment site at last follow-up (mean: 29.5 months; range: 7-60 months) and there were no treatment complications of distant focal lesions.<br><br>
 
-CONCLUSION: Image-guided ablation is a safe and feasible treatment option for locally recurrent WTC following adequate surgery as well as for distant focal WTC metastases. Our results suggest that RFA is more effective than EtOH for local neck lesions despite being used to treat larger lesions.;T;@OI""/exhibits/RSNA2012ExtraCrani/;T{;{	;I"w<!DOCTYPE HTML>
+CONCLUSION: Image-guided ablation is a safe and feasible treatment option for locally recurrent WTC following adequate surgery as well as for distant focal WTC metastases. Our results suggest that RFA is more effective than EtOH for local neck lesions despite being used to treat larger lesions.;T;@OI""/exhibits/RSNA2012ExtraCrani/;T{;{	;I"„<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific &#38; Educational Exhibits</title>
+		<title>Jeffrey Guenette MD :: Scientific &#38; Educational Exhibits</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -1016,7 +1028,8 @@ CONCLUSION: Image-guided ablation is a safe and feasible treatment option for lo
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific &#38; Educational Exhibits</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific &#38; Educational Exhibits</span></h1>
 			<!-- title block :: end -->
  
 <h3>Extracranial Tumors of the Head and Neck&#58; Palliative and Curative Roles for Image-Guided Ablation</h3>
@@ -1073,11 +1086,11 @@ I""PURPOSE/AIM: To highlight the emerging role of image&#45;guided ablation in
 CONTENT ORGANIZATION: 1. Review of thyroid tumor epidemiology and relevant neck anatomyÍ¾ 2. Indications for ablation of thyroid
 tumor metastasesÍ¾ 3. Description of thyroid tumor ablation modalities, procedures, potential complications, and followupÍ¾ 4. Single&#45;center thyroid ablation experience to dateÍ¾ 5. Brief history of non&#45;thyroid head and neck tumor ablationÍ¾ 6. Specific tumor and patient characteristics important when considering head and neck ablationÍ¾ 7. Pictorial review of interesting casesÍ¾ 8. Summary of presented material.<br><br>
 
-SUMMARY: While the image&#45;guided ablation of extracranial head and neck tumors remains unorthodox, the ablation of thyroid cancer metastases has been shown to be safe, effective, and curative and published cases suggest a role for ablation in the palliation of other head and neck tumors. Diagnostic and interventional radiologists should be aware of the success of these therapeutic modalities so that patients may be properly identified, referred, and treated.;T;@UI""/exhibits/RSNA2012Modalities/;T{;{	;I"Þ<!DOCTYPE HTML>
+SUMMARY: While the image&#45;guided ablation of extracranial head and neck tumors remains unorthodox, the ablation of thyroid cancer metastases has been shown to be safe, effective, and curative and published cases suggest a role for ablation in the palliation of other head and neck tumors. Diagnostic and interventional radiologists should be aware of the success of these therapeutic modalities so that patients may be properly identified, referred, and treated.;T;@UI""/exhibits/RSNA2012Modalities/;T{;{	;I"ë<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific &#38; Educational Exhibits</title>
+		<title>Jeffrey Guenette MD :: Scientific &#38; Educational Exhibits</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -1089,7 +1102,8 @@ SUMMARY: While the image&#45;guided ablation of extracranial head and neck tumor
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific &#38; Educational Exhibits</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific &#38; Educational Exhibits</span></h1>
 			<!-- title block :: end -->
  
 <h3>A Guide to Choosing the Best Thermal Ablation Modality When Treating Soft Tissue Tumors</h3>
@@ -1143,11 +1157,11 @@ I"yPURPOSE/AIM: To provide a review of the relevant basic science and to share
 
 CONTENT ORGANIZATION: 1. Review of radiofrequency ablation, microwave ablation, and cryoablation biophysicsÍ¾ 2. Review of thermal ablation monitoring capabilitiesÍ¾ 3. Anatomic considerationsÍ¾ 4. Tumor characteristic considerationsÍ¾ 5. Treatment goal considerationsÍ¾ 6. Pictorial review of interesting and demonstrative casesÍ¾ 6. Summary of presented material.<br><br>
 
-SUMMARY: Research has shown the safety and efficacy of radiofrequency ablation, microwave ablation, and cryoablation in the treatment of a wide variety of tumors, however studies comparing the modalities are limited, many tumors amenable to ablation are unusually located, and the effects of and ability to monitor each modality varies significantly. By properly considering modality biophysics and monitoring, tumor characteristics, surrounding anatomy, and treatment goals, the interventional radiologist will be able to optimize outcomes on an ablationbyablation basis.;T;@[I"%/largeimages/JVIR2013thyroid375/;T{;{ I"/publications/IGI2013Lung/;T{;{	;I"£<!DOCTYPE HTML>
+SUMMARY: Research has shown the safety and efficacy of radiofrequency ablation, microwave ablation, and cryoablation in the treatment of a wide variety of tumors, however studies comparing the modalities are limited, many tumors amenable to ablation are unusually located, and the effects of and ability to monitor each modality varies significantly. By properly considering modality biophysics and monitoring, tumor characteristics, surrounding anatomy, and treatment goals, the interventional radiologist will be able to optimize outcomes on an ablationbyablation basis.;T;@[I"%/largeimages/JVIR2013thyroid375/;T{;{ I"/publications/IGI2013Lung/;T{;{	;I"°<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Publications</title>
+		<title>Jeffrey Guenette MD :: Scientific Publications</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -1159,7 +1173,8 @@ SUMMARY: Research has shown the safety and efficacy of radiofrequency ablation, 
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific Publications</span></h1>
 			<!-- title block :: end -->
  
 <h3>Lung Ablation</h3>
@@ -1207,11 +1222,11 @@ alone, in combination with, or relative to other established treatments of lung 
 introduced advances in thermal lung ablation techniques, and the current role of thermal ablation in the treatment of lung cancer.;T;
 I"Image-guided thermal ablation is an increasingly studied and used treatment for both cure and palliation of primary and secondary lung cancer. The technique has been used for a little over a decade and has been proven safe and effective in treating a variety of solid tumors including many in the lung, liver, kidney, breast, bone, and adrenal gland. It may be used in conjunction with radiotherapy and systemic chemotherapy and is relatively low cost. Thermal ablation modalities include radiofrequency, microwave, laser, and cryotherapy. Randomized controlled clinical trials have not yet been conducted to establish efficacy of thermal ablation
 alone, in combination with, or relative to other established treatments of lung neoplasms. However, an increasing number of single and multicenter cohort studies have consistently established the safety and suggest efficacy for medically inoperable disease. The remainder of this chapter highlights the basic biophysics underlying thermal ablation modalities, specifically within the unique anatomy and physiology of the lung, the understood safety and efficacy of thermal lung ablation given our experience to date, newly
-introduced advances in thermal lung ablation techniques, and the current role of thermal ablation in the treatment of lung cancer.;T;@dI"%/publications/Radiology2013Bone/;T{;{	;I"A<!DOCTYPE HTML>
+introduced advances in thermal lung ablation techniques, and the current role of thermal ablation in the treatment of lung cancer.;T;@dI"%/publications/Radiology2013Bone/;T{;{	;I"N<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-		<title>Jeffrey Guenette :: Scientific Publications</title>
+		<title>Jeffrey Guenette MD :: Scientific Publications</title>
 		<meta name="description" content="Jeffrey Guenette">
 		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
 		<meta name="author" content="Jeffrey P. Guenette">
@@ -1223,7 +1238,8 @@ introduced advances in thermal lung ablation techniques, and the current role of
 		<div id="container">
  
 			<!-- title block :: begin -->
-			<h1>Jeffrey P. Guenette <span class="subtitle">&#47; Scientific Publications</span></h1>
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle">&#47; Scientific Publications</span></h1>
 			<!-- title block :: end -->
  
 <h3>Solitary Painful Osseous Metastases&#58; Correlation of Imaging&#45;Features with Pain Palliation after Radiofrequency Ablation &#45; A Multicenter American College of Radiology Imaging Network Study</h3>
