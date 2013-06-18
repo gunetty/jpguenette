@@ -1,7 +1,23 @@
----
-layout: home
----
-
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<title>Jeffrey Guenette MD </title>
+		<meta name="description" content="Jeffrey Guenette">
+		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
+		<meta name="author" content="Jeffrey P. Guenette">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="generator" content="nanoc 3.6.3"> 
+  </head>
+  <body>
+		<!-- container :: begin -->
+		<div id="container">
+ 
+			<!-- title block :: begin -->
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle"></span></h1>
+			<!-- title block :: end -->
+ 
 <!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
@@ -137,7 +153,7 @@ layout: home
 <p>Science versus biased results: 
 	<a href="http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/" target="link3">
 	Lies, Damned Lies, and Medical Science &#64; The Atlantic</a></p>
-<p>Antibiotics are scary, take heed: 
+<p>Why physicians (hopefully) limit antibiotic prescriptions: 
 		<a href="http://www.treehugger.com/corporate-responsibility/resistance-antibiotics-now-kills-more-people-aids.html" 
 		target="link9">Resistance to antibiotics now kills more people than AIDS &#64; TreeHugger</a></p>
 <p>The MMR vaccine does NOT cause autism: <a href="http://tallguywrites.livejournal.com/148012.html" target="link7">The Facts 
@@ -180,4 +196,19 @@ layout: home
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
       friends links :: end -->
+			
+			<!-- footer :: begin -->
+			<div class="footer">
+				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+					width="32" height="32" alt="HTML5 Powered with CSS3 / Styling, and Semantics"></a>&nbsp;
+				<a href="http://jigsaw.w3.org/css-validator/check/referer" target="w3"><img style="border:0;width:88px;height:31px" 
+					src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a>&nbsp;
+				<img src="../ruby_logo.gif" alt="Ruby Programming Language" width="28" height="32">
+			</div>
+			<!-- footer :: end --> 
+		
+		</div>
+		<!-- container :: end -->
+  </body>
+</html>
 

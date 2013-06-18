@@ -1,4 +1,4 @@
-{:	data{$I"/:ET{:default{	:	lastI"ó+<!DOCTYPE HTML>
+{:	data{$I"/:ET{:default{	:	lastI"ÿ+<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -21,8 +21,7 @@
 <!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">As of June 13, 2013:<br>
-	Department of Internal Medicine<br>
+<p class="geo">Department of Internal Medicine<br>
 	Mount Auburn Hospital<br>
 	330 Mount Auburn Street<br>
 	Cambridge, MA 02138
@@ -38,25 +37,24 @@
 
 <!-- bio block :: begin -->
 <p class="bio" id="first">
-	I have recently graduated from medical school at 
-	<a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a>. 
-	In June 2013 I will begin an internship in Internal Medicine at <a href="http://www.mountauburnhospital.org" target="auburn">
-	Mount Auburn Hospital</a> and in July 2014 I will begin a Radiology residency at 
-	<a href="http://www.brighamandwomens.org" target="brigham">Brigham &#38; Women's Hospital</a>. I will also hold a Clinical 
-	Fellow appointment at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
+	I am currently an internal medicine intern at <a href="http://www.mountauburnhospital.org" target="auburn"> Mount 
+	Auburn Hospital</a> and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
+	Following my internship, in July 2014, I will be joining <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
+	&#38; Women's Hospital</a> as a radiology resident.
 </p>
 <p class="bio">
-	Throughout medical school I have conducted clinical research with 
+	My primary research goal is to minimize medical treatment morbidities, medical waste, and medical costs through the 
+	development and deployment of diagnostic and therapeutic imaging-related technologies that have the potential for 
+	large-scale application. Throughout medical school I conducted clinical research with 
 	<a href="http://biomed.brown.edu/facultydirectory/profile.php?id=1100924038" target="dupuy">Damian Dupuy</a>, studying 
-	outcomes of and imaging features associated with percutaneous image-guided tumor ablation. I am interested in minimizing 
-	medical treatment morbidity, medical waste, and medical costs. I am also fascinated by (though not necessary well-versed in): 
-	human and computer vision, human morphology, and human evolutionary biology.
+	outcomes of and imaging features associated with percutaneous image-guided tumor ablation. I am also fascinated by (though 
+	not necessary well-versed in) human and computer vision, human morphology, and human evolutionary biology.
 </p>
 <p class="bio">
-	Prior to medical school I worked in New York City at <a href="http://www.crystalco.com" target="crystal">Crystal &#38; 
-	Company</a> for over five years as a business analyst. I graduated from 
-	<a href="http://www.dartmouth.edu" target="dartmouth">Dartmouth College</a> with a BA in ancient history and completed a 
-	postbac at <a href="http://gs.columbia.edu/postbac/" target="columbia"> Columbia University</a>.
+	I earned my MD from <a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a> and my BA 
+	from <a href="http://www.dartmouth.edu" target="dartmouth">Dartmouth College</a>. Prior to medical school I worked in New 
+	York City at <a href="http://www.crystalco.com" target="crystal">Crystal &#38; Company</a> for over five years as a 
+	business analyst and completed a postbac at <a href="http://gs.columbia.edu/postbac/" target="columbia"> Columbia University</a>.
 </p>
 <p class="bio">
 	I am on <a href="https://twitter.com/gunetty" target="twitter">Twitter</a> and 
@@ -150,18 +148,24 @@
 <p class="begin">The best statistics/public health presentation you will ever see: 
 	<a href="http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html" target="link1">Hans Rosling 
 		&#64; TED</a></p>
-<p>Why too many medical tests is a bad thing: 
+<p>Good explanation of counterintuitive risks: 
 	<a href="http://www.nytimes.com/2009/12/13/magazine/13Fob-wwln-t.html" target="link2">Mammogram Math &#64; NY Times</a></p>
-<p>Why biased research is a bad thing: 
+<p>Science versus biased results: 
 	<a href="http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/" target="link3">
 	Lies, Damned Lies, and Medical Science &#64; The Atlantic</a></p>
-<p>Why to take meds only when necessary: 
+<p>Antibiotics are scary, take heed: 
 		<a href="http://www.treehugger.com/corporate-responsibility/resistance-antibiotics-now-kills-more-people-aids.html" 
 		target="link9">Resistance to antibiotics now kills more people than AIDS &#64; TreeHugger</a></p>
 <p>The MMR vaccine does NOT cause autism: <a href="http://tallguywrites.livejournal.com/148012.html" target="link7">The Facts 
 	In The Case of Dr. Andrew Wakefield &#64; TallGuyWrites</a></p>
-<p>Why high-fructose corn syrup is horrible for you: <a href="http://www.youtube.com/watch?v=dBnniua6-oM" target="link11">
+<p>The science of why high-fructose corn syrup is horrible for you: <a href="http://www.youtube.com/watch?v=dBnniua6-oM" target="link11">
 	Sugar: The Bitter Truth &#64; YouTube</a></p>
+<p>Awesome rumination on thinking and running: <a href="http://edge.org/conversation/-brains-plus-brawn" target="link10">
+	Brains Plus Brawn &#64; edge.com</a></p>
+<p>We can manipulate atoms!
+	<a href="http://www.latimes.com/news/science/sciencenow/la-sci-sn-ibm-world-smallest-movie-atoms-20130501,0,5172409.story" 
+	target="link7">A Boy And His Atom &#64; LA Times</a></p>
+<!--
 <p>Pesticides may affect your brain (in addition to the environment):
 	<a href="http://www.reuters.com/article/idUSTRE67N4X920100824" target="link5">Pesticides Linked to Attention Problems 
 	&#64; Reuters</a></p>
@@ -172,14 +176,11 @@
 	Story of Stuff</a></p>
 <p>The 2nd Amendment was for militias: <a href="http://www.pbs.org/wgbh/pages/frontline/government-elections-politics/how-conservatives-reinvented-the-second-amendment/" 
 		target="link8">How Conservatives ‚ÄúReinvented‚Äù the Second Amendment &#64; PBS/Frontline</a></p>
-<p>Awesome rumination on thinking and running: <a href="http://edge.org/conversation/-brains-plus-brawn" target="link10">
-	Brains Plus Brawn &#64; edge.com</a></p>
-<p>We can manipulate atoms!
-	<a href="http://www.latimes.com/news/science/sciencenow/la-sci-sn-ibm-world-smallest-movie-atoms-20130501,0,5172409.story" 
-	target="link7">A Boy And His Atom &#64; LA Times</a></p>
+-->
+	
 <!-- interesting links :: end -->
 
-<!-- friends links :: start -->
+<!-- friends links :: start
 <h2>Artistic Friends Doing Cool Work</h2>
 <p class="begin">Margarita Martinez (my wife), actor and singer/songwriter: 
 	<a href="http://www.margaritamartinez.com" target="margarita">www.margaritamartinez.com</a></p>
@@ -194,7 +195,7 @@
 	<a href="http://www.hyunchoosung.com" target="hyunch">www.hyunchoosung.com</a></p>
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
-<!-- friends links :: end -->
+      friends links :: end -->
 			
 			<!-- footer :: begin -->
 			<div class="footer">
@@ -211,11 +212,10 @@
   </body>
 </html>
 
-;T:rawI"¨&<!-- title block :: begin -->
+;T:rawI"Ì&<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">As of June 13, 2013:<br>
-	Department of Internal Medicine<br>
+<p class="geo">Department of Internal Medicine<br>
 	Mount Auburn Hospital<br>
 	330 Mount Auburn Street<br>
 	Cambridge, MA 02138
@@ -231,25 +231,24 @@
 
 <!-- bio block :: begin -->
 <p class="bio" id="first">
-	I have recently graduated from medical school at 
-	<a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a>. 
-	In June 2013 I will begin an internship in Internal Medicine at <a href="http://www.mountauburnhospital.org" target="auburn">
-	Mount Auburn Hospital</a> and in July 2014 I will begin a Radiology residency at 
-	<a href="http://www.brighamandwomens.org" target="brigham">Brigham &#38; Women's Hospital</a>. I will also hold a Clinical 
-	Fellow appointment at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
+	I am currently an internal medicine intern at <a href="http://www.mountauburnhospital.org" target="auburn"> Mount 
+	Auburn Hospital</a> and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
+	Following my internship, in July 2014, I will be joining <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
+	&#38; Women's Hospital</a> as a radiology resident.
 </p>
 <p class="bio">
-	Throughout medical school I have conducted clinical research with 
+	My primary research goal is to minimize medical treatment morbidities, medical waste, and medical costs through the 
+	development and deployment of diagnostic and therapeutic imaging-related technologies that have the potential for 
+	large-scale application. Throughout medical school I conducted clinical research with 
 	<a href="http://biomed.brown.edu/facultydirectory/profile.php?id=1100924038" target="dupuy">Damian Dupuy</a>, studying 
-	outcomes of and imaging features associated with percutaneous image-guided tumor ablation. I am interested in minimizing 
-	medical treatment morbidity, medical waste, and medical costs. I am also fascinated by (though not necessary well-versed in): 
-	human and computer vision, human morphology, and human evolutionary biology.
+	outcomes of and imaging features associated with percutaneous image-guided tumor ablation. I am also fascinated by (though 
+	not necessary well-versed in) human and computer vision, human morphology, and human evolutionary biology.
 </p>
 <p class="bio">
-	Prior to medical school I worked in New York City at <a href="http://www.crystalco.com" target="crystal">Crystal &#38; 
-	Company</a> for over five years as a business analyst. I graduated from 
-	<a href="http://www.dartmouth.edu" target="dartmouth">Dartmouth College</a> with a BA in ancient history and completed a 
-	postbac at <a href="http://gs.columbia.edu/postbac/" target="columbia"> Columbia University</a>.
+	I earned my MD from <a href="http://www.brown.edu/academics/medical/" target="brown">Brown University</a> and my BA 
+	from <a href="http://www.dartmouth.edu" target="dartmouth">Dartmouth College</a>. Prior to medical school I worked in New 
+	York City at <a href="http://www.crystalco.com" target="crystal">Crystal &#38; Company</a> for over five years as a 
+	business analyst and completed a postbac at <a href="http://gs.columbia.edu/postbac/" target="columbia"> Columbia University</a>.
 </p>
 <p class="bio">
 	I am on <a href="https://twitter.com/gunetty" target="twitter">Twitter</a> and 
@@ -343,18 +342,24 @@
 <p class="begin">The best statistics/public health presentation you will ever see: 
 	<a href="http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html" target="link1">Hans Rosling 
 		&#64; TED</a></p>
-<p>Why too many medical tests is a bad thing: 
+<p>Good explanation of counterintuitive risks: 
 	<a href="http://www.nytimes.com/2009/12/13/magazine/13Fob-wwln-t.html" target="link2">Mammogram Math &#64; NY Times</a></p>
-<p>Why biased research is a bad thing: 
+<p>Science versus biased results: 
 	<a href="http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/8269/" target="link3">
 	Lies, Damned Lies, and Medical Science &#64; The Atlantic</a></p>
-<p>Why to take meds only when necessary: 
+<p>Antibiotics are scary, take heed: 
 		<a href="http://www.treehugger.com/corporate-responsibility/resistance-antibiotics-now-kills-more-people-aids.html" 
 		target="link9">Resistance to antibiotics now kills more people than AIDS &#64; TreeHugger</a></p>
 <p>The MMR vaccine does NOT cause autism: <a href="http://tallguywrites.livejournal.com/148012.html" target="link7">The Facts 
 	In The Case of Dr. Andrew Wakefield &#64; TallGuyWrites</a></p>
-<p>Why high-fructose corn syrup is horrible for you: <a href="http://www.youtube.com/watch?v=dBnniua6-oM" target="link11">
+<p>The science of why high-fructose corn syrup is horrible for you: <a href="http://www.youtube.com/watch?v=dBnniua6-oM" target="link11">
 	Sugar: The Bitter Truth &#64; YouTube</a></p>
+<p>Awesome rumination on thinking and running: <a href="http://edge.org/conversation/-brains-plus-brawn" target="link10">
+	Brains Plus Brawn &#64; edge.com</a></p>
+<p>We can manipulate atoms!
+	<a href="http://www.latimes.com/news/science/sciencenow/la-sci-sn-ibm-world-smallest-movie-atoms-20130501,0,5172409.story" 
+	target="link7">A Boy And His Atom &#64; LA Times</a></p>
+<!--
 <p>Pesticides may affect your brain (in addition to the environment):
 	<a href="http://www.reuters.com/article/idUSTRE67N4X920100824" target="link5">Pesticides Linked to Attention Problems 
 	&#64; Reuters</a></p>
@@ -365,14 +370,11 @@
 	Story of Stuff</a></p>
 <p>The 2nd Amendment was for militias: <a href="http://www.pbs.org/wgbh/pages/frontline/government-elections-politics/how-conservatives-reinvented-the-second-amendment/" 
 		target="link8">How Conservatives ‚ÄúReinvented‚Äù the Second Amendment &#64; PBS/Frontline</a></p>
-<p>Awesome rumination on thinking and running: <a href="http://edge.org/conversation/-brains-plus-brawn" target="link10">
-	Brains Plus Brawn &#64; edge.com</a></p>
-<p>We can manipulate atoms!
-	<a href="http://www.latimes.com/news/science/sciencenow/la-sci-sn-ibm-world-smallest-movie-atoms-20130501,0,5172409.story" 
-	target="link7">A Boy And His Atom &#64; LA Times</a></p>
+-->
+	
 <!-- interesting links :: end -->
 
-<!-- friends links :: start -->
+<!-- friends links :: start
 <h2>Artistic Friends Doing Cool Work</h2>
 <p class="begin">Margarita Martinez (my wife), actor and singer/songwriter: 
 	<a href="http://www.margaritamartinez.com" target="margarita">www.margaritamartinez.com</a></p>
@@ -387,7 +389,7 @@
 	<a href="http://www.hyunchoosung.com" target="hyunch">www.hyunchoosung.com</a></p>
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
-<!-- friends links :: end -->;T:pre@:	post@
+      friends links :: end -->;T:pre@:	post@
 I"/stylesheet/;T{;{;I"Èbody {
 	background: #446644;
 	margin: 80px 0 0 0;
