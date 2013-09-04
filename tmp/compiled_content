@@ -1,4 +1,4 @@
-{:	data{$I"/:ET{:default{	:	lastI"Ï+<!DOCTYPE HTML>
+{:	data{$I"/:ET{:default{	:	lastI"Ë,<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -21,12 +21,12 @@
 <!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">Department of Internal Medicine<br>
-	Mount Auburn Hospital<br>
-	330 Mount Auburn Street<br>
-	Cambridge, MA 02138
+<p class="geo">Internal Medicine Intern, Mount Auburn Hospital<br>
+	Sponsored Staff for Radiology Research, Brigham &#38; Women's Hospital<br>
+	Clinical Fellow, Harvard Medical School
 </p>
 <p class="geo">
+	jguenette &#43; &#64;partners.org<br>
 	jguenett &#43; &#64;mah.harvard.edu<br>
 	<a href="http://jpguenette.github.io">jpguenette.github.io</a>
 </p>
@@ -38,9 +38,10 @@
 <!-- bio block :: begin -->
 <p class="bio" id="first">
 	I am currently an internal medicine intern at <a href="http://www.mountauburnhospital.org" target="auburn"> Mount 
-	Auburn Hospital</a> and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
+	Auburn Hospital</a>, sponsored staff for radiology research at <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
+	&#38; Women's Hospital</a>, and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
 	Following my internship, in July 2014, I will be joining <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
-	&#38; Women's Hospital</a> as a radiology resident.
+	&#38; Women's Hospital</a> full-time as a radiology resident.
 </p>
 <p class="bio">
 	My primary research goal is to minimize medical treatment morbidities, medical waste, and medical costs through the 
@@ -77,7 +78,7 @@
 	Recurrence of Biopsy-proven Well-differentiated 
 	Thyroid Carcinoma</a><br> 
 	Guenette JP, Monchik JM, Dupuy DE<br>
-	J Vasc Interv Radiol. 2013 May;24(5):672-9
+	J Vasc Interv Radiol. 2013;24(5):672-9
 </p>
 <div class="clear"></div>
 <img class="thumb" src="thumbs/Radiology2013bonemets.jpg" alt="Bone Ablation Image">
@@ -85,7 +86,7 @@
 	Imaging-Features with Pain Palliation after Radiofrequency Ablation &#45; A Multicenter American College of Radiology 
 	Imaging Network Study</a><br>
 	Guenette JP, Lopez MJ, Kim E, Dupuy DE<br>
-	Radiology. In Press.
+	Radiology. 2013;268(3):907-915.
 </p>
 <div class="clear"></div>
 <img class="thumb" src="thumbs/IGI2013lung.jpg" alt="Lung Ablation Image">
@@ -212,15 +213,15 @@
   </body>
 </html>
 
-;T:rawI"ä&<!-- title block :: begin -->
+;T:rawI"à'<!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">Department of Internal Medicine<br>
-	Mount Auburn Hospital<br>
-	330 Mount Auburn Street<br>
-	Cambridge, MA 02138
+<p class="geo">Internal Medicine Intern, Mount Auburn Hospital<br>
+	Sponsored Staff for Radiology Research, Brigham &#38; Women's Hospital<br>
+	Clinical Fellow, Harvard Medical School
 </p>
 <p class="geo">
+	jguenette &#43; &#64;partners.org<br>
 	jguenett &#43; &#64;mah.harvard.edu<br>
 	<a href="http://jpguenette.github.io">jpguenette.github.io</a>
 </p>
@@ -232,9 +233,10 @@
 <!-- bio block :: begin -->
 <p class="bio" id="first">
 	I am currently an internal medicine intern at <a href="http://www.mountauburnhospital.org" target="auburn"> Mount 
-	Auburn Hospital</a> and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
+	Auburn Hospital</a>, sponsored staff for radiology research at <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
+	&#38; Women's Hospital</a>, and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
 	Following my internship, in July 2014, I will be joining <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
-	&#38; Women's Hospital</a> as a radiology resident.
+	&#38; Women's Hospital</a> full-time as a radiology resident.
 </p>
 <p class="bio">
 	My primary research goal is to minimize medical treatment morbidities, medical waste, and medical costs through the 
@@ -271,7 +273,7 @@
 	Recurrence of Biopsy-proven Well-differentiated 
 	Thyroid Carcinoma</a><br> 
 	Guenette JP, Monchik JM, Dupuy DE<br>
-	J Vasc Interv Radiol. 2013 May;24(5):672-9
+	J Vasc Interv Radiol. 2013;24(5):672-9
 </p>
 <div class="clear"></div>
 <img class="thumb" src="thumbs/Radiology2013bonemets.jpg" alt="Bone Ablation Image">
@@ -279,7 +281,7 @@
 	Imaging-Features with Pain Palliation after Radiofrequency Ablation &#45; A Multicenter American College of Radiology 
 	Imaging Network Study</a><br>
 	Guenette JP, Lopez MJ, Kim E, Dupuy DE<br>
-	Radiology. In Press.
+	Radiology. 2013;268(3):907-915.
 </p>
 <div class="clear"></div>
 <img class="thumb" src="thumbs/IGI2013lung.jpg" alt="Lung Ablation Image">
@@ -1224,7 +1226,7 @@ alone, in combination with, or relative to other established treatments of lung 
 introduced advances in thermal lung ablation techniques, and the current role of thermal ablation in the treatment of lung cancer.;T;
 I"Image-guided thermal ablation is an increasingly studied and used treatment for both cure and palliation of primary and secondary lung cancer. The technique has been used for a little over a decade and has been proven safe and effective in treating a variety of solid tumors including many in the lung, liver, kidney, breast, bone, and adrenal gland. It may be used in conjunction with radiotherapy and systemic chemotherapy and is relatively low cost. Thermal ablation modalities include radiofrequency, microwave, laser, and cryotherapy. Randomized controlled clinical trials have not yet been conducted to establish efficacy of thermal ablation
 alone, in combination with, or relative to other established treatments of lung neoplasms. However, an increasing number of single and multicenter cohort studies have consistently established the safety and suggest efficacy for medically inoperable disease. The remainder of this chapter highlights the basic biophysics underlying thermal ablation modalities, specifically within the unique anatomy and physiology of the lung, the understood safety and efficacy of thermal lung ablation given our experience to date, newly
-introduced advances in thermal lung ablation techniques, and the current role of thermal ablation in the treatment of lung cancer.;T;@dI"%/publications/Radiology2013Bone/;T{;{	;I"N<!DOCTYPE HTML>
+introduced advances in thermal lung ablation techniques, and the current role of thermal ablation in the treatment of lung cancer.;T;@dI"%/publications/Radiology2013Bone/;T{;{	;I"Ä<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1248,8 +1250,8 @@ introduced advances in thermal lung ablation techniques, and the current role of
 
 <p class="mainContent_abstractData">
 	Guenette JP, Lopez MJ, Kim E, Dupuy DE
-	<br>Radiology. In Press.
-	
+	<br>Radiology. 2013;268(3):907-915.
+	<br>Publication Access via <a href="http://www.ncbi.nlm.nih.gov/pubmed/23657892" target="pubmed">PubMed</a>
 	
 	
 	

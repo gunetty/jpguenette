@@ -1,17 +1,32 @@
----
-layout: home
----
-
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<title>Jeffrey Guenette MD </title>
+		<meta name="description" content="Jeffrey Guenette">
+		<meta name="keywords" content="Jeffrey Guenette, Jeff Guenette">
+		<meta name="author" content="Jeffrey P. Guenette">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="generator" content="nanoc 3.6.3"> 
+  </head>
+  <body>
+		<!-- container :: begin -->
+		<div id="container">
+ 
+			<!-- title block :: begin -->
+			<h1>Jeffrey P. Guenette, M.D.
+				<span class="subtitle"></span></h1>
+			<!-- title block :: end -->
+ 
 <!-- title block :: begin -->
 <img class="photo" src="jeff.jpg" alt="Photo of Jeff">
 
-<p class="geo">Internal Medicine Intern, Mount Auburn Hospital<br>
-	Sponsored Staff for Radiology Research, Brigham &#38; Women's Hospital<br>
-	Clinical Fellow, Harvard Medical School
+<p class="geo">Internal Medicine Intern, Mount Auburn Hospital, Cambridge MA<br>
+	Sponsored Staff for Radiology Research, Brigham and Women's Hospital, Boston MA<br>
+	Clinical Fellow, Harvard Medical School, Boston MA
 </p>
 <p class="geo">
-	jguenette &#43; &#64;partners.org<br>
-	jguenett &#43; &#64;mah.harvard.edu<br>
+	jguenette &#43; partners.org || jguenett &#43; &#64;mah.harvard.edu<br>
 	<a href="http://jpguenette.github.io">jpguenette.github.io</a>
 </p>
 <p class="geo">
@@ -22,10 +37,9 @@ layout: home
 <!-- bio block :: begin -->
 <p class="bio" id="first">
 	I am currently an internal medicine intern at <a href="http://www.mountauburnhospital.org" target="auburn"> Mount 
-	Auburn Hospital</a>, sponsored staff for radiology research at <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
-	&#38; Women's Hospital</a>, and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
+	Auburn Hospital</a> and a clinical fellow at <a href="http://www.harvard.edu" target="harvard">Harvard University</a>.
 	Following my internship, in July 2014, I will be joining <a href="http://www.brighamandwomens.org" target="brigham">Brigham 
-	&#38; Women's Hospital</a> full-time as a radiology resident.
+	&#38; Women's Hospital</a> as a radiology resident.
 </p>
 <p class="bio">
 	My primary research goal is to minimize medical treatment morbidities, medical waste, and medical costs through the 
@@ -62,7 +76,7 @@ layout: home
 	Recurrence of Biopsy-proven Well-differentiated 
 	Thyroid Carcinoma</a><br> 
 	Guenette JP, Monchik JM, Dupuy DE<br>
-	J Vasc Interv Radiol. 2013;24(5):672-9
+	J Vasc Interv Radiol. 2013 May;24(5):672-9
 </p>
 <div class="clear"></div>
 <img class="thumb" src="thumbs/Radiology2013bonemets.jpg" alt="Bone Ablation Image">
@@ -70,7 +84,7 @@ layout: home
 	Imaging-Features with Pain Palliation after Radiofrequency Ablation &#45; A Multicenter American College of Radiology 
 	Imaging Network Study</a><br>
 	Guenette JP, Lopez MJ, Kim E, Dupuy DE<br>
-	Radiology. 2013;268(3):907-915.
+	Radiology. In Press.
 </p>
 <div class="clear"></div>
 <img class="thumb" src="thumbs/IGI2013lung.jpg" alt="Lung Ablation Image">
@@ -181,4 +195,19 @@ layout: home
 <p>Hannah Volfson, graphic designer: 
 	<a href="http://www.hannahvolfson.com" target="hannah">www.hannahvolfson.com</a></p>
       friends links :: end -->
+			
+			<!-- footer :: begin -->
+			<div class="footer">
+				<a href="http://www.w3.org/html/logo/" target="w3c"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+					width="32" height="32" alt="HTML5 Powered with CSS3 / Styling, and Semantics"></a>&nbsp;
+				<a href="http://jigsaw.w3.org/css-validator/check/referer" target="w3"><img style="border:0;width:88px;height:31px" 
+					src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a>&nbsp;
+				<img src="../ruby_logo.gif" alt="Ruby Programming Language" width="28" height="32">
+			</div>
+			<!-- footer :: end --> 
+		
+		</div>
+		<!-- container :: end -->
+  </body>
+</html>
 
